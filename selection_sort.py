@@ -1,5 +1,5 @@
 """
-An example of `Bubble Sort Algorithm`.
+An example of `Selection Sort Algorithm`.
 """
 
 
